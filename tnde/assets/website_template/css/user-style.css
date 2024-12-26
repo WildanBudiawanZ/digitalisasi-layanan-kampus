@@ -1,0 +1,330 @@
+a:focus{
+  outline: none;
+  text-decoration: none;
+}
+
+li.dropdown:active{
+  background-color: rgba(0, 0, 0, 0.53);
+}
+
+.user-menu{
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.user-menu h3{
+  color: white;
+}
+
+.user-menu .main{
+  margin-top: 20px;
+}
+
+
+
+.user-menu ul{
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+.user-menu ul li{
+  list-style-type: none;
+  font-family: raleway-regular;
+  padding: 5px;
+  line-height: 25px;
+  margin-top: 10px;
+}
+
+.user-menu ul li a{
+  color: #333;
+  font-size: 1.5rem;
+  font-size: 13px;
+
+}
+
+.user-menu ul li:hover{
+}
+
+.user-menu ul li:hover a{
+  text-decoration: none;
+}
+
+.informasi-user{
+  margin-top: 20px;
+  border: solid 1px #cecece;
+  border-radius: 3px;
+}
+
+.informasi-user h4{
+  background-color: #e8e8e8;
+  line-height: 40px;
+  margin-top: 0;
+  border-radius: 3px 3px 0px 0px ;
+  padding-left: 10px;
+}
+
+.informasi-user a{
+  color: black;
+  position: absolute;
+  top: 32px;
+  right: 30px;
+}
+
+.informasi-user .isi-info{
+  padding: 10px;
+}
+
+.informasi-user .isi-info .nama{
+font-family: open sans;
+}
+
+.informasi-user .isi-info .normal{
+  font-family: roboto-light;
+}
+
+.ret2{
+  margin-top: 18vh;
+}
+
+@media screen and (min-width: 1200px){
+  .ret2{
+    margin-top: 70px;
+  }
+}
+
+@media screen and (max-width: 1200px){
+  .informasi-user a{
+    top: 12px;
+  }
+
+  .informasi-user{
+    margin-top: 100px;
+  }
+
+  .main.res{
+    margin-top: 100px;
+  }
+
+  .ret2{
+    margin-top: 120px;
+  }
+}
+
+@media screen and (max-width: 992px){
+  .informasi-user{
+    margin-top: 10px;
+  }
+
+  .main.res{
+    margin-top: 10px;
+  }
+
+  .ret2{
+    margin-top: 50px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .informasi-user{
+    margin-top: 70px;
+  }
+
+  .informasi-user a{
+    top: 12px;
+  }
+
+  .main.res{
+    margin-top: 70px;
+  }
+
+
+}
+
+
+
+
+
+.main-user .invoice{
+  background-color: rgb(245, 245, 245);
+  padding: 20px;
+  border: solid 1px white;
+}
+
+.no-padding{
+  padding: 0;
+}
+
+.main-user h2{
+  color: #87be00;
+  font-size: 35px;
+}
+
+.main-user .qty{
+  font-size: 50px;
+  margin-left: 30px;
+  font-weight: bolder;
+}
+
+.main-user .tipe{
+  font-size: 30px;
+  margin-left: 5%;
+}
+
+.main-user a:hover{
+  text-decoration: none;
+}
+
+.main-user .icon{
+  font-size: 50px;
+  margin-left: 10%;
+  color: rgb(144, 144, 144);
+}
+
+.cmn-t-underline-p {
+  position: relative;
+  color: #A72188;
+}
+.cmn-t-underline-p:after {
+  display: block;
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  width: 0;
+  height: 3px;
+  background-color: #A72188;
+  content: "";
+  transition: width 0.2s;
+}
+.cmn-t-underline-p:hover {
+  color: #A72188;
+}
+.cmn-t-underline-p:hover:after {
+  width: 100%;
+}
+
+.main-user .invoice:hover{
+  background-color: rgb(240, 240, 240);
+}
+
+.main-user .btm-container{
+  margin-top: 20px;
+  border: solid 1px #e8e8e8;
+  border-left: solid 5px #87be00;
+  border-radius: 4px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+
+}
+
+.main-user .btm-container h4{
+  font-family: proximanovar;
+  font-size: 16px;
+}
+
+.main-user .btm-container p{
+  font-family: proximanova;
+}
+
+.main-user .btn-inside{
+  color: white;
+  background-color: #87be00;
+  padding: 3px 10px;
+  border-radius: 4px;
+}
+
+.btm-container ul{
+  padding: 0;
+}
+
+.btm-container ul li{
+  list-style-type: none;
+}
+
+.btm-container li a{
+  color: #555;
+}
+
+.main-user .table{
+  border: solid 1px #cecece;
+}
+
+.main-user .table thead{
+  font-family: proximanovar;
+  font-size: 15px;
+  background-color: rgb(245, 245, 245);
+  border-bottom: none;
+}
+
+.main-user .table tr th{
+  border-bottom: solid 1px #cecece;
+}
+
+.main-user .table tbody{
+  font-family: proximanova;
+}
+
+.main-user .table-input{
+  font-family: proximanovar;
+}
+
+.main-user .table-input input{
+  margin-bottom: 10px;
+}
+
+.main-user .table-input td{
+  font-size: 13px;
+  color: grey;
+  margin-bottom: 5px;
+}
+
+.table-input input:focus{
+  box-shadow: none;
+  border-color: #87be00;
+}
+
+.table-input select{
+  margin-bottom: 5px;
+}
+
+.table-input select:focus{
+  box-shadow: none;
+  border-color: #87be00;
+}
+
+.belum-lunas{
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.lunas{
+  background-color: rgb(139, 210, 22);
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+
+.table tr:hover{
+  background-color: rgb(250, 250, 250);
+}
+
+.table.custom tr:hover{
+  background-color: inherit;
+}
+
+
+.table-input.mod{
+  font-family: proximanovar;
+}
+
+.table-input.mod tr td{
+  padding: 8px;
+}
+
+.table-input textarea:focus{
+  box-shadow: none;
+  border-color: rgb(152, 204, 54);
+}

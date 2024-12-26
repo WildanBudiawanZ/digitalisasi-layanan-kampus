@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ckeditor-ruler",
+        "scope": null,
+        "escapedName": "ckeditor-ruler",
+        "name": "ckeditor-ruler",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "d:\\Projects\\_Git\\ckeditor-ruler\\docs"
+    ]
+  ],
+  "_from": "ckeditor-ruler@latest",
+  "_id": "ckeditor-ruler@1.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ckeditor-ruler",
+  "_nodeVersion": "6.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/ckeditor-ruler-1.1.0.tgz_1479909995463_0.05844637309201062"
+  },
+  "_npmUser": {
+    "name": "lovata",
+    "email": "account@lovata.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ckeditor-ruler",
+    "scope": null,
+    "escapedName": "ckeditor-ruler",
+    "name": "ckeditor-ruler",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/ckeditor-ruler/-/ckeditor-ruler-1.1.0.tgz",
+  "_shasum": "870f30b41c32c3dd1bbd5ce526e32e81a4d5134e",
+  "_shrinkwrap": null,
+  "_spec": "ckeditor-ruler",
+  "_where": "d:\\Projects\\_Git\\ckeditor-ruler\\docs",
+  "author": {
+    "name": "Aleksandra Shinkevich",
+    "email": "a.shinkevich@lovata.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lovata/ckeditor-ruler/issues"
+  },
+  "dependencies": {
+    "jquery": "*",
+    "nouislider": "9.0.0"
+  },
+  "description": "A simple ruler plugin for CKEditor",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "870f30b41c32c3dd1bbd5ce526e32e81a4d5134e",
+    "tarball": "https://registry.npmjs.org/ckeditor-ruler/-/ckeditor-ruler-1.1.0.tgz"
+  },
+  "gitHead": "54e12008c58be303cbfa831141daa5bb055eeb5e",
+  "homepage": "https://github.com/lovata/ckeditor-ruler#readme",
+  "keywords": [
+    "ckeditor",
+    "ruler"
+  ],
+  "license": "GPL-3.0",
+  "main": "plugin.js",
+  "maintainers": [
+    {
+      "name": "lovata",
+      "email": "account@lovata.com"
+    }
+  ],
+  "name": "ckeditor-ruler",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovata/ckeditor-ruler.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}

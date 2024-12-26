@@ -1,0 +1,17 @@
+{
+  "name": "ckeditor-ruler-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --progress"
+  },
+  "author": "Aleksandra Shinkevich <a.shinkevich@lovata.com>",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "ckeditor-ruler": "^1.1.0",
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

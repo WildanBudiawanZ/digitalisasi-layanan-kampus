@@ -1,0 +1,143 @@
+@font-face{
+  font-family: bebasneue;
+  src: url(../font/bebasneue-webfont.ttf);
+}
+
+@font-face{
+  font-family: source sans pro;
+  src: url(../font/SourceSansPro-Regular.ttf);
+}
+
+
+
+.green-container{
+  background-image: url(../img/bg2.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 50px;
+
+  padding-bottom: 100px;
+  background-color: #99c323;
+  box-shadow: inset 0px 0px 100px 5px rgba(0, 0, 0, 0.13);
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+
+
+.green-container .t-white{
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 10px 0 0 10px;
+  border-color: transparent transparent transparent #ffffff;
+  margin-right: 10px;
+}
+
+.green-container h1{
+  font-family: bebasneue;
+  color: #87be00;
+  font-size: 55px;
+}
+
+.green-container h1 span{
+  color: white;
+}
+
+.green-container h3{
+  color: white;
+}
+
+.green-container p{
+  font-family: proximanovar;
+  color: white;
+  font-size: 14.5px;
+}
+
+.btn-home{
+  background-color: none;
+  border: solid 1px #87be00;
+  border-radius: 0;
+  line-height: 35px;
+  color: white;
+  font-family: source sans pro;
+  font-size: 17px;
+}
+
+.btn-home:hover{
+  color: white;
+}
+
+.btn-home:visited{
+  color: white;
+}
+
+
+.list-product{
+  padding: 20px 5px;
+  background-image: url(../img/bg-dot.png);
+  background-repeat: repeat;
+  background-size: 10px 10px;
+  text-align: center;
+  display: table;
+  width: 100%;
+}
+
+.list-product ul{
+  display: table-row;
+  margin: 0;
+  padding: 0;
+}
+
+.list-product ul li{
+  display: table-cell;
+  padding: 10px;
+  list-style: none;
+  /*border-bottom: solid 4px rgba(255, 255, 255, 0);*/
+  transition: all .2s ease-in-out;
+}
+
+.list-product ul li a img{
+  transition: all .2s ease-in-out;
+}
+
+/*.list-product ul li:hover{
+  border-bottom: solid 4px #87be00;
+}*/
+
+@media screen and (max-width: 992px){
+  .list-product .container{
+    width: 100%;
+    padding: 0;
+  }
+
+  .list-product ul li img{
+    height: 35px;
+  }
+}
+@media screen and (max-width: 768px){
+  .list-product .container{
+    width: 100%;
+    padding: 0;
+  }
+
+  .list-product ul li{
+    display: inline-table;
+  }
+  .list-product ul li img{
+    width: 130px;
+  }
+}
+
+@media screen and (max-width: 640px){
+  .list-product ul li{
+    display: inline-table;
+  }
+
+  .list-product ul li img{
+    width: 130px;
+  }
+}

@@ -1,0 +1,1272 @@
+
+    <style> .str{ mso-number-format:\@; } </style>
+    <table border="1" width="100%" >
+    <thead>
+    
+    <tr>
+    
+    <th width="40%">NAMA</th>
+    <th width="10%">NIP</th>
+    <th width="20%">PANGGOL</th>
+    <th width="10%">ESELON</th>
+    <th width="10%">GOL</th> 
+    <th width="10%">JABATAN</th> 
+    <th width="10%">UNIT KERJA</th> 
+    <th width="10%">KODE UNIT</th> 
+    </tr>
+    </thead>
+    <tbody><tr>
+     <td >Fauzul Iman</td>
+     <td class='str' >195803241987031003</td>
+     <td >Pembina Utama (IV/e)</td>     
+     <td >I</td>
+     <td >IV</td>
+     <td >Rektor</td>
+     <td >Rektor UIN Sultan Maulana Hasanuddin Banten</td>
+     <td >REKTORAT</td>
+    </tr><tr>
+     <td >Ilzamudin</td>
+     <td class='str' >196108291990031002</td>
+     <td >Pembina Utama (IV/e)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Rektor I</td>
+     <td >Wakil Rektor Bidang Akademik dan Kelembagaan</td>
+     <td >REKTORAT</td>
+    </tr><tr>
+     <td >E Syarifuddin</td>
+     <td class='str' >196504041993031002</td>
+     <td >Pembina Utama (IV/e)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Rektor II</td>
+     <td >Wakil Rektor Bidang Administrasi Umum, Perencanaan dan Keuangan</td>
+     <td >REKTORAT</td>
+    </tr><tr>
+     <td >Wawan Wahyuddin</td>
+     <td class='str' >196201011985031008</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Rektor III</td>
+     <td >Wakil Rektor Bidang Kemahasiswaan dan Kerjasama</td>
+     <td >REKTORAT</td>
+    </tr><tr>
+     <td >Mamat Rahmatullah</td>
+     <td class='str' >196503141991031007</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Kepala Biro AUPK</td>
+     <td >Biro Administrasi Umum Perencanaan Keuangan dan Kepegawaian</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Ahmad Riyadi</td>
+     <td class='str' >197106142002121002</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kabag AU</td>
+     <td >Bagian Administrasi dan Umum</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >M Farid Wajdi</td>
+     <td class='str' >196812022005011003</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubag TU</td>
+     <td >Sub Bagian Tata Usaha</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Teguh Santoso</td>
+     <td class='str' >198309082009011007</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubag RT & BMN</td>
+     <td >Sub Bagian Rumah Tangga dan Barang Milik Negara</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Mukhammad Nailil Fijjar</td>
+     <td class='str' >198004142003121003</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kabag P & K</td>
+     <td >Bagian Perencanaan dan Keuangan</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Burhanudin Hartono</td>
+     <td class='str' >198405282009011005</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubag Perencanaan</td>
+     <td >Sub Bagian Perencanaan</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Slamet Sucipto</td>
+     <td class='str' >196912151993031003</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubag Keuangan</td>
+     <td >Sub Bagian Keuangan</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Akhmad Kurnia Dahlan</td>
+     <td class='str' >196407171989031002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kabag OK</td>
+     <td >Bagian Organisasi dan Kepegawaian</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Nyai Rusdiani</td>
+     <td class='str' >198303312009012008</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubag Ortala</td>
+     <td >Sub Bagian Organisasi dan Tata Laksana</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Didin Wahyudin</td>
+     <td class='str' >196909071992031001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >IV</td>
+     <td >IV</td>
+     <td >Kasubag Kepegawaian</td>
+     <td >Sub Bagian Kepegawaian dan Hukum</td>
+     <td >BIRO AUPK</td>
+    </tr><tr>
+     <td >Teguh Sarwono</td>
+     <td class='str' >196503141991031007</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Kepala Biro AAKK</td>
+     <td >Biro Administrasi Akademik, Kemahasiswaan dan Kerjasama</td>
+     <td >BIRO AAKK</td>
+    </tr><tr>
+     <td >Ade Eman Supratman</td>
+     <td class='str' >197611272000031001</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kabag AK</td>
+     <td >Bagian Akademik dan Kemahasiswaan</td>
+     <td >BIRO AAKK</td>
+    </tr><tr>
+     <td >Nursi</td>
+     <td class='str' >197807132007012017</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubbag Akademik</td>
+     <td >Sub Bagian Akademik</td>
+     <td >BIRO AAKK</td>
+    </tr><tr>
+     <td >Ida Sulastri</td>
+     <td class='str' >196912111992032002</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubbag Kemahasiswaan</td>
+     <td >Sub Bagian Kemahasiswaan</td>
+     <td >BIRO AAKK</td>
+    </tr><tr>
+     <td >Lilis Aslihah Rahman</td>
+     <td class='str' >197103171998032001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kabag KLH</td>
+     <td >Bagian Kerjasama, Kelembagaan dan Hubungan Masyarakat</td>
+     <td >BIRO AAKK</td>
+    </tr><tr>
+     <td >Fathullah</td>
+     <td class='str' >197506162005011003</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubbag kerjasama & kelmbgaan</td>
+     <td >Sub Bagian Kerjasama dan Kelembagaan</td>
+     <td >BIRO AAKK</td>
+    </tr><tr>
+     <td >Rohili</td>
+     <td class='str' >196103011989031003</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubbag Humas & Informasi</td>
+     <td >Sub Bagian Hubungan Masyarakat dan Informasi</td>
+     <td >BIRO AAKK</td>
+    </tr><tr>
+     <td >Shobri</td>
+     <td class='str' >197507152000031005</td>
+     <td >Pembina (IV/a)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Ketua SPI</td>
+     <td >Satuan Pemeriksa Intern</td>
+     <td >SPI</td>
+    </tr><tr>
+     <td >Aan Ansori</td>
+     <td class='str' >197310152007011027</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Sekretaris SPI</td>
+     <td >Satuan Pemeriksa Intern</td>
+     <td >SPI</td>
+    </tr><tr>
+     <td >Hidayatullah</td>
+     <td class='str' >197409182000031001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Ketua LPM</td>
+     <td >Lembaga Penjaminan Mutu</td>
+     <td >LPM</td>
+    </tr><tr>
+     <td >Zaenal Abidin</td>
+     <td class='str' >197203171998031002</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Sekretaris LPM</td>
+     <td >Lembaga Penjaminan Mutu</td>
+     <td >LPM</td>
+    </tr><tr>
+     <td >M Rifai</td>
+     <td class='str' >197412032006041002</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubag TU</td>
+     <td >Lembaga Penjaminan Mutu</td>
+     <td >LPM</td>
+    </tr><tr>
+     <td >Asep Saefurohman</td>
+     <td class='str' >197808272003121003</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kapus 1</td>
+     <td >Lembaga Penjaminan Mutu</td>
+     <td >LPM</td>
+    </tr><tr>
+     <td >Fitri Hilmiyati</td>
+     <td class='str' >197006141997032001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kapus 2</td>
+     <td >Lembaga Penjaminan Mutu</td>
+     <td >LPM</td>
+    </tr><tr>
+     <td >Asep Furqonuddin</td>
+     <td class='str' >197805122003121001</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kapus 3</td>
+     <td >Lembaga Penjaminan Mutu</td>
+     <td >LPM</td>
+    </tr><tr>
+     <td >Wazin</td>
+     <td class='str' >196302251990031005</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Ketua LP2M</td>
+     <td >Lembaga Penelitian dan Pengabdian Kepada Masyarakat</td>
+     <td >LP2M</td>
+    </tr><tr>
+     <td >Suhaedi</td>
+     <td class='str' >196710141995031001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Sekretaris LP2M</td>
+     <td >Lembaga Penelitian dan Pengabdian Kepada Masyarakat</td>
+     <td >LP2M</td>
+    </tr><tr>
+     <td >Iriana Ramadhani</td>
+     <td class='str' >196601011988032002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kasubag TU</td>
+     <td >Lembaga Penelitian dan Pengabdian Kepada Masyarakat</td>
+     <td >LP2M</td>
+    </tr><tr>
+     <td >Ayatullah Humaeni</td>
+     <td class='str' >197803252006041001</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kapus 1</td>
+     <td >Lembaga Penelitian dan Pengabdian Kepada Masyarakat</td>
+     <td >LP2M</td>
+    </tr><tr>
+     <td >Masykur</td>
+     <td class='str' >197606172005011003</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kapus 2</td>
+     <td >Lembaga Penelitian dan Pengabdian Kepada Masyarakat</td>
+     <td >LP2M</td>
+    </tr><tr>
+     <td >Ilah Holillah</td>
+     <td class='str' >197101061998032003</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kapus 3</td>
+     <td >Lembaga Penelitian dan Pengabdian Kepada Masyarakat</td>
+     <td >LP2M</td>
+    </tr><tr>
+     <td >Subhan</td>
+     <td class='str' >196809102000031001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Dekan</td>
+     <td >Dekan Fakultas Tarbiyah dan Keguruan</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Nana Jumhana</td>
+     <td class='str' >197110291999031002</td>
+     <td >Pembina (IV/a)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan I</td>
+     <td >Wakil Dekan Bidang Akademik dan Kelembagaan</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Eneng Muslihah</td>
+     <td class='str' >196811171991032001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan II</td>
+     <td >Wakil Dekan Bidang Administrasi Umum, Perencanaan dan Keuangan</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Apud</td>
+     <td class='str' >197101172003121002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >II</td>
+     <td >III</td>
+     <td >Wakil Dekan III</td>
+     <td >Wakil Dekan Bidang Kemahasiswaan dan Kerjasama</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >A. Hidayat</td>
+     <td class='str' >196107281989031002</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kabag TU</td>
+     <td >Bagian Tata Usaha</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Heri Mulyadi</td>
+     <td class='str' >196705041991031005</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >subbag kemahasiswaan dan alumni</td>
+     <td >Subbagian Akademik Kemahasiswaan dan Alumni</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Akhmad Taptajani</td>
+     <td class='str' >197807152000121002</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Subbag Adm Umum & Keu</td>
+     <td >Subbagian Administrasi Umum dan Keuangan</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Saefudin Zuhri</td>
+     <td class='str' >196812052000031001</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Pendidikan Agama Islam</td>
+     <td >Jurusan Pendidikan Agama Islam</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Yahdinil Firda Nadhirah</td>
+     <td class='str' >197710182001122001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >IV</td>
+     <td >IV</td>
+     <td >Sekretaris Jurusan Pendidikan Agama Islam</td>
+     <td >Jurusan Pendidikan Agama Islam</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Dina Indriana</td>
+     <td class='str' >197712012003122002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Bahasa Arab</td>
+     <td >Jurusan Bahasa Arab</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Siti Shalihah</td>
+     <td class='str' >198305242008012011</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Bahasa Arab</td>
+     <td >Jurusan Bahasa Arab</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Abdul Muin</td>
+     <td class='str' >197109231999031003</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Tadris Inggris</td>
+     <td >Jurusan Tadris Inggris</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Anita</td>
+     <td class='str' >197704102003122001</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Tadris Inggris</td>
+     <td >Jurusan Tadris Inggris</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Khaeroni</td>
+     <td class='str' >198303182006041003</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Pendidikan Guru MI</td>
+     <td >Jurusan Pendidikan Guru MI</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Sabri</td>
+     <td class='str' >196410061994031004</td>
+     <td >Pembina (IV/a)</td>     
+     <td >IV</td>
+     <td >IV</td>
+     <td >Sekretaris Jurusan Pendidikan Guru MI</td>
+     <td >Jurusan Pendidikan Guru MI</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Supardi</td>
+     <td class='str' >196806201996031003</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Jurusan Manajemen Pendidikan Islam</td>
+     <td >Jurusan Manajemen Pendidikan Islam</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Rosidah</td>
+     <td class='str' >197803172011012005</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Manajemen Pendidikan Islam</td>
+     <td >Jurusan Manajemen Pendidikan Islam</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Umayah</td>
+     <td class='str' >197107102000032008</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Pendidikan Islam Anak Usia Dini</td>
+     <td >Jurusan Pendidikan Islam Anak Usia Dini</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Uyu Mu`awanah</td>
+     <td class='str' >197906132006042002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Pendidikan Islam Anak Usia Dini</td>
+     <td >Jurusan Pendidikan Islam Anak Usia Dini</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Irfan Salim</td>
+     <td class='str' >197307212000031001</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Laboratorium Pendidikan</td>
+     <td >Laboratorium Pendidikan</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Birru Muqdamien</td>
+     <td class='str' >198103202009121003</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Laboratorium Multimedia</td>
+     <td >Laboratorium Multimedia</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Muhammad Rifqi Rizal</td>
+     <td class='str' >197407311999031001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kepala Laboratorium Sumber Belajar</td>
+     <td >Laboratorium Sumber Belajar</td>
+     <td >FTK</td>
+    </tr><tr>
+     <td >Yusuf Somawinata</td>
+     <td class='str' >195911191991031003</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Dekan</td>
+     <td >Dekan Fakultas Syariah</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Ahmad Zaini</td>
+     <td class='str' >196506071992031005</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan I</td>
+     <td >Wakil Dekan Bidang Akademik dan Kelembagaan</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Ahmad Sanusi</td>
+     <td class='str' >197802252008011009</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >II</td>
+     <td >III</td>
+     <td >Wakil Dekan II</td>
+     <td >Wakil Dekan Bidang Administrasi Umum, Perencanaan dan Keuangan</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Mahfud</td>
+     <td class='str' >196207051993031005</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >II</td>
+     <td >III</td>
+     <td >Wakil Dekan III</td>
+     <td >Wakil Dekan Bidang Kemahasiswaan dan Kerjasama</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Hajani</td>
+     <td class='str' >196402051994031001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kabag TU</td>
+     <td >Bagian Tata Usaha</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Saprudin</td>
+     <td class='str' >196608012000031003</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Subbag Akademik, Kemahasiswaan & Alumni</td>
+     <td >Subbagian Administrasi Umum dan Keuangan</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Wahyudin</td>
+     <td class='str' >196508011989031001</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Subbag Adm Umum & Keu</td>
+     <td >Subbagian Akademik, Kemahasiswaan dan Alumni</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Ahmad Harisul Miftah</td>
+     <td class='str' >197701202009011011</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Hukum Keluarga</td>
+     <td >Jurusan Hukum Keluarga</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Hilman Taqiyudin</td>
+     <td class='str' >197103252003121001</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Hukum Keluarga</td>
+     <td >Jurusan Hukum Keluarga</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Muhammadh Ishom</td>
+     <td class='str' >197606232006041002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Tata Negara</td>
+     <td >Jurusan Tata Negara</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Entol Zaenal Muttaqin</td>
+     <td class='str' >198408022011011008</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Tata Negara</td>
+     <td >Jurusan Tata Negara</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Masduki</td>
+     <td class='str' >197311051999031001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Jurusan Ekonomi Syariah</td>
+     <td >Jurusan Ekonomi Syariah</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Ade Mulyana</td>
+     <td class='str' >195911041994031002</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Ekonomi Syariah</td>
+     <td >Jurusan Ekonomi Syariah</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Atu Karomah</td>
+     <td class='str' >196902141999032001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kepala Laboratorium Peradilan</td>
+     <td >Laboratorium Peradilan</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Agung Heru Setiadi</td>
+     <td class='str' >198508272011011009</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Laboratorium Komputer</td>
+     <td >Laboratorium Komputer</td>
+     <td >FS</td>
+    </tr><tr>
+     <td >Udi Mufradi Mawardi</td>
+     <td class='str' >196102091994031001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Dekan</td>
+     <td >Dekan Fakultas Ushuluddin dan Adab</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >M. Hudaeri</td>
+     <td class='str' >197109031999031007</td>
+     <td >Pembina (IV/a)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan I</td>
+     <td >Wakil Dekan Bidang Akademik dan Kelembagaan</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >M. Shoheh</td>
+     <td class='str' >197101211999031002</td>
+     <td >Pembina (IV/a)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan II</td>
+     <td >Wakil Dekan Bidang Administrasi Umum, Perencanaan dan Keuangan</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Sholahuddin Ayubi</td>
+     <td class='str' >197304201999031001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan III</td>
+     <td >Wakil Dekan Bidang Kemahasiswaan dan Kerjasama</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Raden Suyanto</td>
+     <td class='str' >196802051998031001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kabag TU</td>
+     <td >Bagian Tata Usaha</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Mohammad Nasir</td>
+     <td class='str' >196805031991031008</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Subbag Akademik, Kemahasiswaan & Alumni</td>
+     <td >Subbagian Akademik, Kemahasiswaan dan Alumni</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Masjahroniah</td>
+     <td class='str' >196609151990032001</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Subbag Adm Umum & Keu</td>
+     <td >Subbagian Administrasi Umum dan Keuangan</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Badrudin</td>
+     <td class='str' >197504052009011014</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Ilmu Alquran & Tafsir</td>
+     <td >Jurusan Ilmu Alquran & Tafsir</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Agus Ali Dzawafi</td>
+     <td class='str' >197708172009011013</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Ilmu Alquran & Tafsir</td>
+     <td >Jurusan Ilmu Alquran & Tafsir</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Masrukhin Muhsin</td>
+     <td class='str' >197202021999031004</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Jurusan Ilmu Hadits</td>
+     <td >Jurusan Ilmu Hadits</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Muhammad Alif</td>
+     <td class='str' >196904062005011005</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Ilmu Hadits</td>
+     <td >Jurusan Ilmu Hadits</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Safi`in Mansur</td>
+     <td class='str' >196401081998031001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Jurusan Aqidah & Filsafat Islam</td>
+     <td >Jurusan Aqidah & Filsafat Islam</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Jaipuri Harahap</td>
+     <td class='str' >196106071995031002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Aqidah & Filsafat Islam</td>
+     <td >Jurusan Aqidah & Filsafat Islam</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Eva Syarifah Wardah</td>
+     <td class='str' >197208111999032009</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Jurusan Sejarah & Peradaban Islam</td>
+     <td >Jurusan Sejarah & Peradaban Islam</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Hatta Raharja</td>
+     <td class='str' >198002222009011005</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Sejarah & Peradaban Islam</td>
+     <td >Jurusan Sejarah & Peradaban Islam</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Ida Nursida</td>
+     <td class='str' >196811292003122001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Jurusan Bahasa & Satra Arab</td>
+     <td >Jurusan Bahasa & Satra Arab</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Dadang Ismatullah</td>
+     <td class='str' >198407102011011010</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Bahasa & Satra Arab</td>
+     <td >Jurusan Bahasa & Satra Arab</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Sari</td>
+     <td class='str' >195910051989031005</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kepala Laboratorium Bahan Ajar</td>
+     <td >Laboratorium Bahan Ajar</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Merry Choironi</td>
+     <td class='str' >197310212001122002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Laboratorium Multimedia Tafsir Hadits</td>
+     <td >Laboratorium Multimedia Tafsir Hadits</td>
+     <td >FUA</td>
+    </tr><tr>
+     <td >Suadi Sa`ad</td>
+     <td class='str' >196311151994031002</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Dekan</td>
+     <td >Dekan Fakultas Dakwah</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Umdatul Hasanah</td>
+     <td class='str' >197005291996032001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan I</td>
+     <td >Wakil Dekan Bidang Akademik dan Kelembagaan</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Erdi Rujikartawi</td>
+     <td class='str' >197309062005011003</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan II</td>
+     <td >Wakil Dekan Bidang Administrasi Umum, Perencanaan dan Keuangan</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Endad Musaddad</td>
+     <td class='str' >197206261998031002</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan III</td>
+     <td >Wakil Dekan Bidang Kemahasiswaan dan Kerjasama</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Ai Dadah Mahmudah</td>
+     <td class='str' >196607121987032003</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kabag TU</td>
+     <td >Bagian Tata Usaha</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Afifi</td>
+     <td class='str' >197203112003121002</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Subbag Akademik, Kemahasiswaan & Alumni</td>
+     <td >Subbagian Akademik, Kemahasiswaan dan Alumni</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Nana Heryana</td>
+     <td class='str' >196910092001121001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >IV</td>
+     <td >IV</td>
+     <td >Subbag Adm Umum & Keu</td>
+     <td >Subbagian Administrasi Umum dan Keuangan</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Eneng Purwati</td>
+     <td class='str' >197806072008012014</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Studi Pengembangan Masyarakat Islam</td>
+     <td >Jurusan Studi Pengembangan Masyarakat Islam</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Azizah Alawiyyah</td>
+     <td class='str' >197712152011012004</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Studi Pengembangan Masyarakat Islam</td>
+     <td >Jurusan Studi Pengembangan Masyarakat Islam</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Muhibuddin</td>
+     <td class='str' >197006201999031004</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Studi Komunikasi & Penyiaran Islam</td>
+     <td >Jurusan Studi Komunikasi & Penyiaran Islam</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >TTB Nurwahyu</td>
+     <td class='str' >197110262000031002</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Studi Komunikasi & Penyiaran Islam</td>
+     <td >Jurusan Studi Komunikasi & Penyiaran Islam</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Agus Sukirno</td>
+     <td class='str' >197303282011011001</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Bimbingan & Konseling Islam</td>
+     <td >Jurusan Bimbingan & Konseling Islam</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Iwan Kosasih</td>
+     <td class='str' >197902252006041001</td>
+     <td >Penata Muda (III/a)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Bimbingan & Konseling Islam</td>
+     <td >Jurusan Bimbingan & Konseling Islam</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >A Mahfudz</td>
+     <td class='str' >195809291988031003</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kepala Laboratorium Fakultas Dakwah</td>
+     <td >Laboratorium Fakultas Dakwah</td>
+     <td >FD</td>
+    </tr><tr>
+     <td >Nihayatul Maskuroh</td>
+     <td class='str' >196402121991032003</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Dekan</td>
+     <td >Dekan Fakultas Ekonomi dan Bisnis Islam</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Itang</td>
+     <td class='str' >197108041998031003</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan I</td>
+     <td >Wakil Dekan Bidang Akademik dan Kelembagaan</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Budi Sudrajat</td>
+     <td class='str' >197403072002121004</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan II</td>
+     <td >Wakil Dekan Bidang Administrasi Umum, Perencanaan dan Keuangan</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Efi Syarifudin</td>
+     <td class='str' >197803142005011005</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Dekan III</td>
+     <td >Wakil Dekan Bidang Kemahasiswaan dan Kerjasama</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Nana Sumarna</td>
+     <td class='str' >196303151992011001</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kabag TU</td>
+     <td >Bagian Tata Usaha</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Elfizawati</td>
+     <td class='str' >197108022006042006</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Subbag Akademik, Kemahasiswaan & Alumni</td>
+     <td >Subbagian Akademik, Kemahasiswaan dan Alumni</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Umiyati</td>
+     <td class='str' >197412102002122002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Subbag Adm Umum & Keu</td>
+     <td >Subbagian Administrasi Umum dan Keuangan</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Rutamunadi</td>
+     <td class='str' >196709241989031001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Asuransi Syariah</td>
+     <td >Jurusan Asuransi Syariah</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Ratu Humaemah</td>
+     <td class='str' >198003102011012008</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Asuransi Syariah</td>
+     <td >Jurusan Asuransi Syariah</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Hadi Peristiwo</td>
+     <td class='str' >198111032011011004</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Jurusan Ekonomi Syariah</td>
+     <td >Jurusan Ekonomi Syariah</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >M Indrajit Roy</td>
+     <td class='str' >198011292015031001</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Ekonomi Syariah</td>
+     <td >Jurusan Ekonomi Syariah</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Hendrieta Ferieka</td>
+     <td class='str' >198306112006042001</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Jurusan Perbankkan Syariah</td>
+     <td >Jurusan Perbankkan Syariah</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Mukhlishotul Jannah</td>
+     <td class='str' >197408222005012003</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Jurusan Perbankkan Syariah</td>
+     <td >Jurusan Perbankkan Syariah</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Surahman</td>
+     <td class='str' >198109112015031003</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Laboratorium Mini Banking & Galeri Investasi</td>
+     <td >Laboratorium Mini Banking & Galeri Investasi</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Anita</td>
+     <td class='str' >198208082015032003</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Laboratorium Asuransi</td>
+     <td >Laboratorium Asuransi</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Di`amah Fitriyyah</td>
+     <td class='str' >198703062015032003</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Laboratorium Kewirausahaan</td>
+     <td >Laboratorium Kewirausahaan</td>
+     <td >FEBI</td>
+    </tr><tr>
+     <td >Syafuri</td>
+     <td class='str' >195908101990031002</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Direktur</td>
+     <td >Direktur Pascasarjana</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Naf`an Tarihoran</td>
+     <td class='str' >197001032003121001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >II</td>
+     <td >IV</td>
+     <td >Wakil Direktur</td>
+     <td >Wakil Direktur Pascasarjana</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Muhajir</td>
+     <td class='str' >197012281999031003</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Prodi Pendidikan Agama Islam</td>
+     <td >Prodi Pendidikan Agama Islam</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Hunainah</td>
+     <td class='str' >196704141993032003</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >IV</td>
+     <td >IV</td>
+     <td >Sekretaris  Prodi Pendidikan Agama Islam</td>
+     <td >Prodi Pendidikan Agama Islam</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Dede Permana</td>
+     <td class='str' >197903262008121001</td>
+     <td >Penata Muda Tk. I (III/b)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Ketua Prodi Hukum Keluarga Islam</td>
+     <td >Prodi Hukum Keluarga Islam</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Dedi Sunardi</td>
+     <td class='str' >198009262009011007</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris Prodi Hukum Keluarga Islam</td>
+     <td >Prodi Hukum Keluarga Islam</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Nana Suryapermana</td>
+     <td class='str' >196805062000061001</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Prodi Ekonomi Syariah</td>
+     <td >Prodi Ekonomi Syariah</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Moch Subekhan</td>
+     <td class='str' >197301242005011002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Sekretaris  Prodi Ekonomi Syariah</td>
+     <td >Prodi Ekonomi Syariah</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Anis Fauzi</td>
+     <td class='str' >196710281998021001</td>
+     <td >Pembina Tk. I (IV/b)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Prodi Manajemen Pendidikan Islam</td>
+     <td >Prodi Manajemen Pendidikan Islam</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Umi Kultsum</td>
+     <td class='str' >196505131993032002</td>
+     <td >Pembina (IV/a)</td>     
+     <td >IV</td>
+     <td >IV</td>
+     <td >Sekretaris  Prodi Manajemen Pendidikan Islam</td>
+     <td >Prodi Manajemen Pendidikan Islam</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Moch. Mu`izzuddin</td>
+     <td class='str' >196902052000031005</td>
+     <td >Pembina (IV/a)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Ketua Prodi Pendidikan Bahasa Arab</td>
+     <td >Prodi Pendidikan Bahasa Arab</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Pipit Wulantika</td>
+     <td class='str' >198402092009012009</td>
+     <td >Penata (III/c)</td>     
+     <td >IV</td>
+     <td >III</td>
+     <td >Kepala Subbagian TU</td>
+     <td >Subbagian Tata Usaha</td>
+     <td >PASCASARJANA</td>
+    </tr><tr>
+     <td >Anis Zohriah</td>
+     <td class='str' >196507181992032001</td>
+     <td >Pembina Utama Muda (IV/c)</td>     
+     <td >III</td>
+     <td >IV</td>
+     <td >Kepala Perpustakaan</td>
+     <td >Perpustakaan</td>
+     <td >PERPUS</td>
+    </tr><tr>
+     <td >Eko Wahyu Wibowo</td>
+     <td class='str' >197504142003121002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Unit Teknologi Informasi dan Pangkalan Data</td>
+     <td >Unit Teknologi Informasi dan Pangkalan data</td>
+     <td >PUSTEKIPAD</td>
+    </tr><tr>
+     <td >Moh Nur Arifin</td>
+     <td class='str' >197102212002121007</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Penyaji Bahan pada Subbagian Administrasi Umum dan Keuangan pada Bagian Tata Usaha Fakultas Syariah UIN Sultan Maulana Hasanuddin Banten</td>
+     <td >Unit Pengembang Bahasa</td>
+     <td >PPBAHASA</td>
+    </tr><tr>
+     <td >as`ari</td>
+     <td class='str' >197410292000031002</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Lektor Kepala pada Jurusan/Program Studi Pendidikan Bahasa Inggris pada Fakultas Tarbiyah dan Keguruan UIN Sultan Maulana Hasanuddin Banten</td>
+     <td >Unit Pengembangan Bisnis</td>
+     <td >PPBISNIS</td>
+    </tr><tr>
+     <td >Aang Saeful Milah</td>
+     <td class='str' >198112112009121003</td>
+     <td >Penata (III/c)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Ma`had al Jamiah</td>
+     <td >Ma`had al Jamiah</td>
+     <td >MA`HAD AL JAMI`AH</td>
+    </tr><tr>
+     <td >Eka Julaiha</td>
+     <td class='str' >197003162000032003</td>
+     <td >Penata Tk. I (III/d)</td>     
+     <td >III</td>
+     <td >III</td>
+     <td >Kepala Unit Pengembangan Keterampilan dan Karier</td>
+     <td >Unit Pengembangan Keterampilan dan Karier</td>
+     <td >PPK</td>
+    </tr> 
+   </tbody>
+   </table>
+    

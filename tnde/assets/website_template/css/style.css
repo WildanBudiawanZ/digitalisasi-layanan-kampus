@@ -1,0 +1,646 @@
+@font-face {
+  font-family: 'proximanova';
+  src: url('../fonts/ex/ProximaNova-Light.otf');
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/ex/Roboto-Light.ttf');
+}
+
+@font-face {
+  font-family: 'roboto-regular';
+  src: url('../fonts/ex/Roboto-Regular.ttf');
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'roboto';
+}
+
+h2 small{
+  font-family: 'roboto-regular';
+  font-size: 85%;
+    color: #777;
+}
+
+.clearfix:before, .clearfix:after {
+	content: " ";
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+}
+.spectar{
+	position: relative;
+	width: 100%;
+}
+
+.spectar span{
+	display: inline-block;
+	position: relative;
+	float: left;
+	height: 6px;
+}
+
+.spectar.spectar8 span{
+	width: 12.5%;
+}
+
+.spectar span{
+	opacity: 100;
+}
+
+
+.top-nav{
+  /*background-color: rgb(55, 166, 79);*/
+  background-color: rgb(40, 40, 40);
+  padding: 5px;
+  padding-bottom: 0px;
+  padding-top: 10px;
+
+}
+
+.top-nav p{
+  font-family: "proximanova";
+  color: white;
+  margin-top: 4px;
+
+}
+
+.top-nav p > a{
+  color: white;
+}
+
+.top-nav ul{
+  margin-top: -7px;
+  /*box-shadow: inset 0 1px 3px 0 rgba(0,0,0,.18);*/
+}
+
+li.green{
+  background-color: rgb(109, 175, 24);
+}
+
+top-nav a > li.green{
+  padding-top: 5px;
+}
+
+.top-nav ul li{
+  /*background-color: rgb(109, 175, 24);*/
+  /*background-color: rgb(70, 70, 70);*/
+  padding: 15px 15px 16px 15px;
+  list-style-type: none;
+  margin: -2px;
+
+}
+
+.top-nav li{
+  display: inline;
+  padding: 0px 5px 0px 5px;
+  line-height: 25px;
+
+}
+
+
+.top-nav ul a li{
+  font-family: "proximanova";
+  color: white;
+  font-size: 13px;
+  text-decoration: none;
+  transition: all .1s ease;
+  transition-delay: .1s;
+
+}
+
+.top-nav ul a:hover{
+  text-decoration: none;
+}
+
+.top-nav a > li:hover{
+  text-decoration: none;
+  background-color: rgb(109, 175, 24);
+
+}
+
+.top-nav a > li.green:hover{
+  background-color: rgb(106, 158, 40);
+}
+
+
+.middle-nav{
+  /*border-bottom: solid 5px rgba(109, 175, 24, .8);*/
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.18);
+
+}
+
+.middle-nav img{
+  margin-top: 22px;
+  width: 200px;
+  padding-bottom: 15px;
+  /*margin-bottom: 20px;*/
+}
+
+.middle-nav .ex-menu li{
+  display: inline-block;
+  border-right: 1px solid #cecece;
+  border-left: 1px solid #cecece;
+  margin-left: -5px;
+  margin-bottom: -10px;
+  padding-bottom: 10px;
+
+}
+
+
+
+.middle-nav .ex-menu li:hover{
+
+  background-color: rgb(109, 175, 24);
+  color: white;
+}
+
+.middle-nav .ex-menu a > i{
+  margin-top: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  /*color: rgb(109, 175, 24);*/
+  color: rgb(109, 175, 24);
+
+}
+/*
+.middle-nav .ex-menu a > i:hover{
+  color: white;
+}*/
+
+.main-menu .nav.navbar-nav{
+  padding-left: 30px;
+}
+
+.main-menu li a{
+  line-height: 23px;
+  font-family: 'proximanova';
+  font-size: 16px;
+  color: #333;
+}
+
+.fix-color.colorize a > i{
+  color: white;
+
+}
+
+.fix-color2.colorize a > i{
+  color: white;
+
+}
+
+
+.login-hover{
+  position: absolute;
+  padding: 10px 20px 20px 20px;
+  top: 53px;
+  right: 93px;
+  width: 50%;
+  z-index: 1;
+  background-color: rgb(109, 175, 24);
+  border-bottom: 10px solid rgb(119, 205, 72);
+}
+
+.login-hover label{
+  font-family: 'proximanova';
+}
+
+.login-hover h2{
+  padding-left: 0;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.inner{
+  position: relative;
+}
+
+.inner input{
+  padding-left: 30px;
+}
+
+.inner span{
+  position: absolute;
+
+  pointer-events: none;
+  padding: 10px 12px;
+}
+
+.login-hover .join-us{
+  margin-top: 21px;
+}
+
+.login-hover .join-us a{
+  color: white;
+  font-family: 'proximanova';
+  transition: all .1s ease;
+}
+
+.login-hover .join-us a:hover{
+  text-decoration: none;
+  margin-right: 8px;
+}
+
+.input1{
+  width: 100%;
+  line-height: 40px;
+  background-color: rgb(74, 149, 7);
+  border: none;
+  font-family: 'proximanova';
+  font-size: 13px;
+  margin-bottom: 3px;
+  box-shadow: inset 0 1px 3px 0 rgba(0,0,0,.18);
+
+}
+
+.input1:focus{
+  outline: none;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: rgb(56, 111, 7)
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: rgb(56, 111, 7)
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: rgb(56, 111, 7)
+
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: rgb(56, 111, 7)
+
+}
+:placeholder-shown { /* Standard (https://drafts.csswg.org/selectors-4/#placeholder) */
+  color: rgb(56, 111, 7)
+
+}
+
+.button-login{
+  margin-top: 10px;
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  font-family: 'roboto';
+  transition: all .1s ease;
+  color: rgb(58, 116, 7);
+}
+
+.button-login:hover{
+  background-color: rgb(56, 111, 7);
+  text-decoration: none;
+  color: white;
+}
+
+.dropdown-menu{
+  background-color: rgba(29, 29, 29, 0.9);
+}
+
+.dropdown-menu li > a{
+  color: white;
+  font-size: 14px;
+}
+
+.product-content{
+  position: absolute;
+  left: 170px;
+  top: 10px;
+  padding: 20px;
+  border: solid 1px #cecece;
+}
+
+.hidden{
+  display: none;
+}
+
+
+.head-slider{
+  position: absolute;
+  background-color: rgba(255,255,255,.85);
+  box-shadow: inset 0 1px 3px 0 rgba(0,0,0,.18);
+}
+
+.head-slider h1, h2, h3{
+  color: #444;
+}
+
+.carousel-caption{
+  top: 185px;
+  margin: 0;
+  padding: 0;
+  left: 0px;
+  right: 0px;
+  text-align: left;
+  text-shadow: none;
+}
+
+.carousel-caption p{
+  line-height: 27px;
+  font-size: 15px;
+  padding: 20px;
+  text-align: left;
+  text-shadow: none;
+  font-family: 'roboto';
+  color: #333;
+}
+
+.carousel-caption a{
+  color: rgb(108, 167, 33);
+  padding: 20px;
+  font-size: 20px;
+  text-align: left;
+  text-shadow: none;
+  font-family: 'roboto';
+  transition: all .1s ease;
+}
+
+.carousel-caption a:hover{
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.carousel-indicators{
+  bottom: 0px;
+  padding-bottom: 20px;
+}
+
+.carousel-indicators li{
+  border: solid 2px #cecece;
+
+}
+
+.carousel-caption h1, h2, h3{
+  padding-left: 20px;
+  font-family: 'roboto';
+}
+
+.carousel h1{
+  font-size: 48px;
+}
+
+.carousel{
+  border-bottom: 1px solid #cecece;
+}
+
+.under{
+  padding: 0px;
+  border-bottom: solid 1px #cecece;
+}
+
+.under a{
+
+  font-family: 'roboto';
+  font-size: 18px;
+  transition: all .1s ease;
+  color: rgb(108, 167, 33);
+}
+
+.under a:hover{
+  color: rgb(88, 139, 24);
+  text-decoration: none;
+  margin-left: 25px;
+}
+
+.under .col-lg-4{
+  margin-top: 25px;
+}
+
+.under2{
+  /*background-image: url('../img/bg-dots.png');
+  background-repeat: repeat !important;
+  background-size: auto;
+  background-color: #87be00;*/
+  position: relative;
+  padding: 60px 0px 60px 0px;
+  box-shadow: inset 0 20px 50px 0 rgba(0,0,0,.18);
+}
+
+
+@media (max-width: 768px) {
+  #particles-js{
+    height: 1785px;
+  }
+}
+
+@media (min-width: 768px) {
+  #particles-js{
+    height: 1613px;
+  }
+}
+
+@media (min-width: 992px) {
+  #particles-js{
+    height: 1024px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #particles-js{
+    height: 892px;
+  }
+}
+
+.under2 p{
+  font-size: 16px;
+  font-family: 'roboto';
+  padding-bottom: 50px;
+}
+
+.why{
+  padding-top: 40px;
+  padding-bottom: 30px;
+  box-shadow: 0 20px 50px 0 rgba(0,0,0,.18);
+}
+
+.why img{
+  padding: 40px;
+}
+
+.product-6{
+  background-color: white;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  width: 100%;
+  background-size: 100% 100%;
+  overflow: hidden;
+  background-position: center center;
+  transition: all .2s ease;
+  border: solid 1px #cecece;
+}
+
+.product-6:hover{
+  background-size: 110% 110%;
+}
+
+
+
+.product-6 a{
+  color: rgb(88, 139, 24);
+  font-family: 'roboto';
+  font-size: 20px;
+  transition: all .1s ease;
+  position: absolute;
+  padding-bottom: 10px;
+  bottom: 0px;
+
+}
+
+.product-12{
+  background-color: white;
+  padding-top: 0;
+  padding: 30px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  /*height: 300px;*/
+  width: 100%;
+  border: solid 1px #cecece;
+  /*background-size: cover;*/
+  overflow: hidden;
+  background-position: center center;
+  background-size: 100% 100%;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    background-position: center center;
+}
+
+/*.product-12:hover{
+  transform: scale(.95);
+}*/
+.product-12:hover{
+  background-size: 110% 110%;
+}
+.product-x{
+  background-color: white;
+
+  padding: 30px;
+  padding-top: 10px;
+
+
+  width: 100%;
+  background-size: 100% 100%;
+  overflow: hidden;
+  background-position: center center;
+  transition: all .2s ease;
+  border: solid 1px #cecece;
+}
+
+.product-x:hover{
+  background-size: 110% 110%;
+}
+
+.no-padding{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.product-12 a{
+  color: rgb(88, 139, 24);
+  font-family: 'roboto';
+  font-size: 22px;
+  transition: all .1s ease;
+  position: absolute;
+  padding-bottom: 10px;
+  bottom: 0px;
+}
+
+.product-x a{
+  color: rgb(88, 139, 24);
+  font-family: 'roboto';
+  font-size: 18px;
+    transition: all .1s ease;
+    position: absolute;
+    padding-bottom: 10px;
+    bottom: 0px;
+}
+
+.product-6 a:hover,
+.product-12 a:hover,
+.product-x a:hover{
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+under2 h1, h2, h3{
+  color: #333;
+}
+
+
+.foot .up-foot{
+  background-color: rgb(48, 53, 56);
+  padding: 8px;
+}
+
+.foot .mid-foot{
+  background-color: #1d1f22;
+  padding: 20px;
+}
+
+.foot .bot-foot{
+  background-color: rgb(48, 53, 56);
+  padding: 5px;
+}
+
+.bot-foot p{
+  font-family: 'roboto';
+  color: white;
+  font-size: 13px;
+  margin-top: 5px;
+}
+
+.up-foot p{
+  font-family: 'roboto';
+  margin-top: 5px;
+  font-size: 13.5px;
+  color: rgb(217, 217, 217);
+}
+
+.mid-foot h3{
+
+  font-family: 'roboto';
+  color: rgb(181, 181, 181);
+  font-size: 16px;
+
+}
+
+
+
+.mid-foot hr{
+  margin: 7px;
+  border-color: rgb(93, 93, 93);
+}
+
+.mid-foot ul{
+  list-style-type: none;
+  padding: 0;
+  margin-left: 20px; ;
+}
+
+
+.mid-foot ul li a{
+  font-family: 'arial';
+  font-size: 12px;
+  color: rgb(201, 201, 201);
+  line-height: 1.1rem;
+}
+
+.mid-foot ul li a:hover{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.mid-foot a > i{
+  padding: 5px;
+
+  color: rgb(48, 53, 56);
+  transition: all .1s ease;
+}
+
+.mid-foot a > i:hover{
+  color: rgb(58, 132, 176);
+}

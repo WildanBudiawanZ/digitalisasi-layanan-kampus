@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+  #particles-js.particle-cart{
+    height: 270px;
+  }
+}
+
+@media (min-width: 768px) {
+  #particles-js.particle-cart{
+    height: 270px;
+  }
+}
+
+@media (min-width: 988px) {
+  #particles-js.particle-cart{
+    height: 270px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #particles-js.particle-cart{
+    height: 270px;
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "PlayCDN",
+    "description": "Library CDN UIN SMH Banten",
+    "homepage": "https://uinbanten.ac.id/pustekipad/cdn",
+    "type": "library",
+    "version": "1.12.1",
+    "keywords": ["Pustekipad", "uinbanten", "CDN"],
+    "authors": [{
+        "name": "Xtrarom",
+        "email": "dainromy@desible.net",
+        "role": "Developer"
+    }],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CDNWeb\\": "vendor/cdnweb/src/"
+        }
+    }
+}

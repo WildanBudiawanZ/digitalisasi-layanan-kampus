@@ -1,0 +1,378 @@
+
+admin ==  SAINTEK == 8 == 2023
+Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+./assets/xdatauploadx/FSAINS_REV_815.xlsx
+admin ==  SAINTEK == 8 == 2023
+Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+./assets/xdatauploadx/FSAINS_REV_816.xlsx
+admin ==  SAINTEK == 8 == 2023
+Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+./assets/xdatauploadx/FSAINS_REV_817.xlsx
+admin ==  SAINTEK == 8 == 2023
+Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+./assets/xdatauploadx/FSAINS_REV_818.xlsx
+admin ==  SAINTEK == 8 == 2023
+Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+./assets/xdatauploadx/FSAINS_REV_819.xlsx
+Loading Library
+admin ==  SAINTEK == 8 == 2023
+Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+./assets/xdatauploadx/FSAINS_REV_820.xlsx
+Loading Library
+admin ==  SAINTEK == 8 == 2023
+Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+./assets/xdatauploadx/FSAINS_REV_821.xlsx
+Loading Library
+2023-12-02 05:11:07 admin ==  SAINTEK == 8 == 2023
+2023-12-02 05:11:07 Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+2023-12-02 05:11:07 ./assets/xdatauploadx/FSAINS_REV_822.xlsx
+2023-12-02 05:11:07 Loading Library
+2023-12-02 05:13:20 admin ==  SAINTEK == 8 == 2023
+2023-12-02 05:13:20 Tanggal ==  14-11-2023 ServerNya == 103.173.231.188
+2023-12-02 05:13:20 ./assets/xdatauploadx/FSAINS_REV_823.xlsx
+2023-12-02 05:23:15 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_824.xlsx
+2023-12-02 05:23:15 IOFactory createReaderForFile == Array
+2023-12-02 05:25:17 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_825.xlsx
+2023-12-02 05:25:17 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_825.xlsx","extension":"xlsx","filename":"FSAINS_REV_825"}
+2023-12-02 05:29:14 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_826.xlsx
+2023-12-02 05:29:14 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_826.xlsx","extension":"xlsx","filename":"FSAINS_REV_826"}
+2023-12-02 05:30:53 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_827.xlsx
+2023-12-02 05:30:53 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_827.xlsx","extension":"xlsx","filename":"FSAINS_REV_827"}
+2023-12-02 05:30:53 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:42:09 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_828.xlsx
+2023-12-02 05:42:09 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_828.xlsx","extension":"xlsx","filename":"FSAINS_REV_828"}
+2023-12-02 05:42:09 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:42:09 IOFactory createReaderForFile Create Reader == {}
+2023-12-02 05:43:59 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_829.xlsx
+2023-12-02 05:43:59 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_829.xlsx","extension":"xlsx","filename":"FSAINS_REV_829"}
+2023-12-02 05:43:59 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:47:16 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_830.xlsx
+2023-12-02 05:47:16 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_830.xlsx","extension":"xlsx","filename":"FSAINS_REV_830"}
+2023-12-02 05:47:16 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:47:16 IOFactory createReader == Array
+2023-12-02 05:47:16 IOFactory createReader == Array
+2023-12-02 05:47:16 IOFactory createReader Type == PHPExcel_Reader_Excel2007
+2023-12-02 05:49:42 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_831.xlsx
+2023-12-02 05:49:42 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_831.xlsx","extension":"xlsx","filename":"FSAINS_REV_831"}
+2023-12-02 05:49:42 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:49:42 IOFactory createReader == {"type":"IWriter","path":"PHPExcel\/Writer\/{0}.php","class":"PHPExcel_Writer_{0}"}
+2023-12-02 05:49:42 IOFactory createReader == IWriter
+2023-12-02 05:49:42 IOFactory createReader == {"type":"IReader","path":"PHPExcel\/Reader\/{0}.php","class":"PHPExcel_Reader_{0}"}
+2023-12-02 05:49:42 IOFactory createReader == IReader
+2023-12-02 05:49:42 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 05:51:57 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_832.xlsx
+2023-12-02 05:51:57 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_832.xlsx","extension":"xlsx","filename":"FSAINS_REV_832"}
+2023-12-02 05:51:57 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:51:57 IOFactory createReader Type == IWriter
+2023-12-02 05:51:57 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 05:51:57 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 05:51:57 IOFactory createReader Type == IReader
+2023-12-02 05:51:57 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 05:51:57 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 05:51:57 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 05:54:49 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 05:54:49 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_833.xlsx","extension":"xlsx","filename":"FSAINS_REV_833"}
+2023-12-02 05:54:49 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:54:49 IOFactory createReader Type == IWriter
+2023-12-02 05:54:49 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 05:54:49 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 05:54:49 IOFactory createReader Type == IReader
+2023-12-02 05:54:49 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 05:54:49 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 05:54:49 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 05:54:49 IOFactory createReader Can Read == DSFGHFGHFDHGF
+2023-12-02 05:54:49 IOFactory createReaderForFile Create Reader == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 05:54:49 IOFactory identify reader == 
+2023-12-02 05:54:49 IOFactory createReader Type == IWriter
+2023-12-02 05:54:49 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 05:54:49 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 05:54:49 IOFactory createReader Type == IReader
+2023-12-02 05:54:49 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 05:54:49 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 05:54:49 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 05:54:49 IOFactory createReader Can Read == DSFGHFGHFDHGF
+2023-12-02 05:57:04 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_834.xlsx
+2023-12-02 05:57:04 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_834.xlsx","extension":"xlsx","filename":"FSAINS_REV_834"}
+2023-12-02 05:57:04 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:57:04 IOFactory createReader Type == IWriter
+2023-12-02 05:57:04 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 05:57:04 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 05:57:04 IOFactory createReader Type == IReader
+2023-12-02 05:57:04 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 05:57:04 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 05:57:04 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 05:59:05 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_835.xlsx
+2023-12-02 05:59:05 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_835.xlsx","extension":"xlsx","filename":"FSAINS_REV_835"}
+2023-12-02 05:59:05 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 05:59:05 IOFactory createReader Type == IWriter
+2023-12-02 05:59:05 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 05:59:05 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 05:59:05 IOFactory createReader Type == IReader
+2023-12-02 05:59:05 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 05:59:05 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 05:59:05 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 05:59:05 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:00:19 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_836.xlsx
+2023-12-02 06:00:19 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_836.xlsx","extension":"xlsx","filename":"FSAINS_REV_836"}
+2023-12-02 06:00:19 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 06:00:19 IOFactory createReader Type == IWriter
+2023-12-02 06:00:19 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:00:19 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:00:19 IOFactory createReader Type == IReader
+2023-12-02 06:00:19 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:00:19 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:00:19 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:00:19 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:07:39 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_837.xlsx
+2023-12-02 06:07:39 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_837.xlsx","extension":"xlsx","filename":"FSAINS_REV_837"}
+2023-12-02 06:07:39 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 06:07:39 IOFactory createReader Type == IWriter
+2023-12-02 06:07:39 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:07:39 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:07:39 IOFactory createReader Type == IReader
+2023-12-02 06:07:39 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:07:39 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:07:39 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:07:39 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:07:39 Loading Zip == 
+2023-12-02 06:07:40 IOFactory createReader Can Read == 1
+2023-12-02 06:07:40 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_837.xlsx
+2023-12-02 06:07:40 Loading Zip == 
+2023-12-02 06:07:40 IOFactory createReaderForFile Create Reader == 1
+2023-12-02 06:07:40 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_837.xlsx
+2023-12-02 06:07:40 Loading Zip == 
+2023-12-02 06:07:40 IOFactory identify reader == 
+2023-12-02 06:07:40 IOFactory createReader Type == IWriter
+2023-12-02 06:07:40 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:07:40 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:07:40 IOFactory createReader Type == IReader
+2023-12-02 06:07:40 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:07:40 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:07:40 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:07:40 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:07:40 Loading Zip == 
+2023-12-02 06:07:40 IOFactory createReader Can Read == 1
+2023-12-02 06:16:09 IOFactory identify == ./assets/xdatauploadx/FSAINS_REV_838.xlsx
+2023-12-02 06:16:09 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"FSAINS_REV_838.xlsx","extension":"xlsx","filename":"FSAINS_REV_838"}
+2023-12-02 06:16:09 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 06:16:09 IOFactory createReader Type == IWriter
+2023-12-02 06:16:09 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:16:09 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:16:09 IOFactory createReader Type == IReader
+2023-12-02 06:16:09 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:16:09 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:16:09 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:16:09 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:16:09 Loading Zip == 
+2023-12-02 06:16:09 Zip Open FIle == true
+2023-12-02 06:16:09 IOFactory createReader Can Read == 1
+2023-12-02 06:16:09 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_838.xlsx
+2023-12-02 06:16:09 Loading Zip == 
+2023-12-02 06:16:09 Zip Open FIle == true
+2023-12-02 06:16:09 IOFactory createReaderForFile Create Reader == 1
+2023-12-02 06:16:09 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_838.xlsx
+2023-12-02 06:16:09 Loading Zip == 
+2023-12-02 06:16:09 Zip Open FIle == true
+2023-12-02 06:16:09 IOFactory identify reader == 
+2023-12-02 06:16:09 IOFactory createReader Type == IWriter
+2023-12-02 06:16:09 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:16:09 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:16:09 IOFactory createReader Type == IReader
+2023-12-02 06:16:09 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:16:09 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:16:09 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:16:09 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:16:09 Loading Zip == 
+2023-12-02 06:16:09 Zip Open FIle == true
+2023-12-02 06:16:09 IOFactory createReader Can Read == 1
+2023-12-02 06:16:13 GetUser CheckPoint == 1
+2023-12-02 06:20:19 IOFactory identify == ./assets/xdatauploadx/AAKK_REV_8_(1)2.xlsx
+2023-12-02 06:20:19 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"AAKK_REV_8_(1)2.xlsx","extension":"xlsx","filename":"AAKK_REV_8_(1)2"}
+2023-12-02 06:20:19 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 06:20:19 IOFactory createReader Type == IWriter
+2023-12-02 06:20:19 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:20:19 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:20:19 IOFactory createReader Type == IReader
+2023-12-02 06:20:19 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:20:19 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:20:19 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:20:19 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:20:19 Loading Zip == 
+2023-12-02 06:20:19 Zip Open FIle == true
+2023-12-02 06:20:19 IOFactory createReader Can Read == 1
+2023-12-02 06:20:19 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)2.xlsx
+2023-12-02 06:20:19 Loading Zip == 
+2023-12-02 06:20:19 Zip Open FIle == true
+2023-12-02 06:20:19 IOFactory createReaderForFile Create Reader == 1
+2023-12-02 06:20:19 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)2.xlsx
+2023-12-02 06:20:19 Loading Zip == 
+2023-12-02 06:20:19 Zip Open FIle == true
+2023-12-02 06:20:19 IOFactory identify reader == 
+2023-12-02 06:20:19 IOFactory Identify == Oke
+2023-12-02 06:20:19 IOFactory createReader Type == IWriter
+2023-12-02 06:20:19 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:20:19 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:20:19 IOFactory createReader Type == IReader
+2023-12-02 06:20:19 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:20:19 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:20:19 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:20:19 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:20:19 Loading Zip == 
+2023-12-02 06:20:19 Zip Open FIle == true
+2023-12-02 06:20:19 IOFactory createReader Can Read == 1
+2023-12-02 06:20:19 IOFactory Create Reader == Oke
+2023-12-02 06:20:24 GetUser CheckPoint == 1
+2023-12-02 06:27:24 IOFactory identify == ./assets/xdatauploadx/AAKK_REV_8_(1)3.xlsx
+2023-12-02 06:27:24 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"AAKK_REV_8_(1)3.xlsx","extension":"xlsx","filename":"AAKK_REV_8_(1)3"}
+2023-12-02 06:27:24 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 06:27:24 IOFactory createReader Type == IWriter
+2023-12-02 06:27:24 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:27:24 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:27:24 IOFactory createReader Type == IReader
+2023-12-02 06:27:24 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:27:24 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:27:24 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:27:24 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:27:24 Loading Zip == 
+2023-12-02 06:27:24 Zip Open FIle == true
+2023-12-02 06:27:24 IOFactory createReader Can Read == 1
+2023-12-02 06:27:24 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)3.xlsx
+2023-12-02 06:27:24 Loading Zip == 
+2023-12-02 06:27:24 Zip Open FIle == true
+2023-12-02 06:27:24 IOFactory createReaderForFile Create Reader == 1
+2023-12-02 06:27:24 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)3.xlsx
+2023-12-02 06:27:24 Loading Zip == 
+2023-12-02 06:27:24 Zip Open FIle == true
+2023-12-02 06:27:24 IOFactory identify reader == 
+2023-12-02 06:27:24 IOFactory Identify == Oke
+2023-12-02 06:27:24 IOFactory createReader Type == IWriter
+2023-12-02 06:27:24 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:27:24 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:27:24 IOFactory createReader Type == IReader
+2023-12-02 06:27:24 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:27:24 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:27:24 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:27:24 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:27:24 Loading Zip == 
+2023-12-02 06:27:24 Zip Open FIle == true
+2023-12-02 06:27:24 IOFactory createReader Can Read == 1
+2023-12-02 06:27:24 IOFactory Create Reader == Oke
+2023-12-02 06:27:24 IOFactory objReader Load == Oke
+2023-12-02 06:27:28 GetUser CheckPoint == 1
+2023-12-02 06:48:11 IOFactory identify == ./assets/xdatauploadx/AAKK_REV_8_(1)4.xlsx
+2023-12-02 06:48:11 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"AAKK_REV_8_(1)4.xlsx","extension":"xlsx","filename":"AAKK_REV_8_(1)4"}
+2023-12-02 06:48:11 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 06:48:11 IOFactory createReader Type == IWriter
+2023-12-02 06:48:11 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:48:11 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:48:11 IOFactory createReader Type == IReader
+2023-12-02 06:48:11 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:48:11 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:48:11 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:48:11 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:48:11 Loading Zip == 
+2023-12-02 06:48:11 Zip Open FIle == true
+2023-12-02 06:48:11 IOFactory createReader Can Read == 1
+2023-12-02 06:48:11 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)4.xlsx
+2023-12-02 06:48:11 Loading Zip == 
+2023-12-02 06:48:11 Zip Open FIle == true
+2023-12-02 06:48:11 IOFactory createReaderForFile Create Reader == 1
+2023-12-02 06:48:11 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)4.xlsx
+2023-12-02 06:48:11 Loading Zip == 
+2023-12-02 06:48:11 Zip Open FIle == true
+2023-12-02 06:48:11 IOFactory identify reader == 
+2023-12-02 06:48:11 IOFactory Identify == Oke
+2023-12-02 06:48:11 IOFactory createReader Type == IWriter
+2023-12-02 06:48:11 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:48:11 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:48:11 IOFactory createReader Type == IReader
+2023-12-02 06:48:11 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:48:11 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:48:11 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:48:11 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:48:11 Loading Zip == 
+2023-12-02 06:48:11 Zip Open FIle == true
+2023-12-02 06:48:11 IOFactory createReader Can Read == 1
+2023-12-02 06:48:11 IOFactory Create Reader == Oke
+2023-12-02 06:48:11 IOFactory objReader Load == Oke
+2023-12-02 06:48:15 GetUser CheckPoint == 1
+2023-12-02 06:48:15 CheckPoint == Sukses
+2023-12-02 06:51:34 IOFactory identify == ./assets/xdatauploadx/AAKK_REV_8_(1)5.xlsx
+2023-12-02 06:51:34 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"AAKK_REV_8_(1)5.xlsx","extension":"xlsx","filename":"AAKK_REV_8_(1)5"}
+2023-12-02 06:51:34 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 06:51:34 IOFactory createReader Type == IWriter
+2023-12-02 06:51:34 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:51:34 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:51:34 IOFactory createReader Type == IReader
+2023-12-02 06:51:34 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:51:34 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:51:34 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:51:34 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:51:34 Loading Zip == 
+2023-12-02 06:51:34 Zip Open FIle == true
+2023-12-02 06:51:34 IOFactory createReader Can Read == 1
+2023-12-02 06:51:34 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)5.xlsx
+2023-12-02 06:51:34 Loading Zip == 
+2023-12-02 06:51:34 Zip Open FIle == true
+2023-12-02 06:51:34 IOFactory createReaderForFile Create Reader == 1
+2023-12-02 06:51:34 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)5.xlsx
+2023-12-02 06:51:34 Loading Zip == 
+2023-12-02 06:51:34 Zip Open FIle == true
+2023-12-02 06:51:34 IOFactory identify reader == 
+2023-12-02 06:51:34 IOFactory Identify == Oke
+2023-12-02 06:51:34 IOFactory createReader Type == IWriter
+2023-12-02 06:51:34 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:51:34 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:51:34 IOFactory createReader Type == IReader
+2023-12-02 06:51:34 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:51:34 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:51:34 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:51:34 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:51:34 Loading Zip == 
+2023-12-02 06:51:34 Zip Open FIle == true
+2023-12-02 06:51:34 IOFactory createReader Can Read == 1
+2023-12-02 06:51:34 IOFactory Create Reader == Oke
+2023-12-02 06:51:34 IOFactory objReader Load == Oke
+2023-12-02 06:51:39 GetUser CheckPoint == 1
+2023-12-02 06:51:39 CheckPoint == Sukses
+2023-12-02 06:55:41 IOFactory identify == ./assets/xdatauploadx/AAKK_REV_8_(1)6.xlsx
+2023-12-02 06:55:41 IOFactory createReaderForFile == {"dirname":".\/assets\/xdatauploadx","basename":"AAKK_REV_8_(1)6.xlsx","extension":"xlsx","filename":"AAKK_REV_8_(1)6"}
+2023-12-02 06:55:41 IOFactory createReaderForFile Extension Type == Excel2007
+2023-12-02 06:55:41 IOFactory createReader Type == IWriter
+2023-12-02 06:55:41 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:55:41 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:55:41 IOFactory createReader Type == IReader
+2023-12-02 06:55:41 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:55:41 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:55:41 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:55:41 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:55:41 Loading Zip == 
+2023-12-02 06:55:41 Zip Open FIle == true
+2023-12-02 06:55:41 IOFactory createReader Can Read == 1
+2023-12-02 06:55:41 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)6.xlsx
+2023-12-02 06:55:41 Loading Zip == 
+2023-12-02 06:55:41 Zip Open FIle == true
+2023-12-02 06:55:41 IOFactory createReaderForFile Create Reader == 1
+2023-12-02 06:55:41 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)6.xlsx
+2023-12-02 06:55:41 Loading Zip == 
+2023-12-02 06:55:41 Zip Open FIle == true
+2023-12-02 06:55:41 IOFactory identify reader == 
+2023-12-02 06:55:41 IOFactory Identify == Oke
+2023-12-02 06:55:41 IOFactory createReader Type == IWriter
+2023-12-02 06:55:41 IOFactory createReader Path == PHPExcel/Writer/{0}.php
+2023-12-02 06:55:41 IOFactory createReader Class == PHPExcel_Writer_{0}
+2023-12-02 06:55:41 IOFactory createReader Type == IReader
+2023-12-02 06:55:41 IOFactory createReader Path == PHPExcel/Reader/{0}.php
+2023-12-02 06:55:41 IOFactory createReader Class == PHPExcel_Reader_{0}
+2023-12-02 06:55:41 IOFactory createReader ClassName == PHPExcel_Reader_Excel2007
+2023-12-02 06:55:41 canRead Zip == ./assets/xdatauploadx/FSAINS_REV_833.xlsx
+2023-12-02 06:55:41 Loading Zip == 
+2023-12-02 06:55:41 Zip Open FIle == true
+2023-12-02 06:55:41 IOFactory createReader Can Read == 1
+2023-12-02 06:55:41 IOFactory Create Reader == Oke
+2023-12-02 06:55:41 IOFactory objReader Load == Oke
+2023-12-02 06:55:45 GetUser CheckPoint == 1
+2023-12-02 06:55:45 CheckPoint == Sukses
+2023-12-02 07:09:58 canRead Zip == ./assets/xdatauploadx/AAKK_REV_8_(1)7.xlsx
+2023-12-02 07:09:58 Loading Zip == 
+2023-12-02 07:09:58 Zip Open FIle == true
